@@ -93,3 +93,4 @@ ReactDOM.render(<Avatar />, mountNode);
   height: 128px;
 }
 ```
+ 

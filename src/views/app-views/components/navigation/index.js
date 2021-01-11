@@ -23,4 +23,4 @@ const NavigationComponents = ({ match }) => (
   </div>
 );
 
-export default NavigationComponents;
+export default NavigationComponents; 

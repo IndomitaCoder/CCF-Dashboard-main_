@@ -19,3 +19,4 @@ React-ApexCharts is a wrapper component for ApexCharts ready to be integrated in
 ## More Charts Examples?
 
 There are several other charts which can be created by changing a couple of options. The major configuration has to be done in the `options` property of ApexCharts component and rest will fall into places. Refer to: [https://apexcharts.com/react-chart-demos/](https://apexcharts.com/react-chart-demos/)
+ 

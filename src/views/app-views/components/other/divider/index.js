@@ -23,3 +23,4 @@ export class DividerComponent extends Component {
 }
 
 export default DividerComponent;
+ 

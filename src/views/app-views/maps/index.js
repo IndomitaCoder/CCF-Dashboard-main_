@@ -12,4 +12,4 @@ const Maps = ({ match }) => (
   </Suspense>
 );
 
-export default Maps;
+export default Maps; 

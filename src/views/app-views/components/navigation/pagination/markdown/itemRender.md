@@ -28,3 +28,4 @@ function itemRender(current, type, originalElement) {
 
 ReactDOM.render(<Pagination total={500} itemRender={itemRender} />, mountNode);
 ```
+ 

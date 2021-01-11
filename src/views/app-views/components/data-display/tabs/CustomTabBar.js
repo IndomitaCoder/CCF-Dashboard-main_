@@ -36,3 +36,4 @@ export class CustomTabBar extends Component {
 }
 
 export default CustomTabBar;
+ 

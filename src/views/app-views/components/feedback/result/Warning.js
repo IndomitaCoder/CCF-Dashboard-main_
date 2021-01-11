@@ -18,3 +18,4 @@ export class Warning extends Component {
 }
 
 export default Warning;
+ 

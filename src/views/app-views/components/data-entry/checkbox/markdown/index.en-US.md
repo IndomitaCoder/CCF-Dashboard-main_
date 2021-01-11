@@ -45,3 +45,4 @@ Checkbox component.
 | ------- | ------------ | ------- |
 | blur()  | remove focus | 3.6.2   |
 | focus() | get focus    | 3.6.2   |
+ 

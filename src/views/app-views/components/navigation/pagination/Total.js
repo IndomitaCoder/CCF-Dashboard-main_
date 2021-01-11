@@ -26,3 +26,4 @@ class Total extends React.Component {
 }
 
 export default Total;
+ 

@@ -50,3 +50,4 @@ export class BasicBar extends Component {
 
 export default BasicBar
 ```
+ 

@@ -20,3 +20,4 @@ class WithIcon extends React.Component {
 }
 
 export default WithIcon;
+ 

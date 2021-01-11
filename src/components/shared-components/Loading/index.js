@@ -24,4 +24,4 @@ Loading.defaultProps = {
 	cover: 'inline'
 };
 
-export default Loading
+export default Loading 

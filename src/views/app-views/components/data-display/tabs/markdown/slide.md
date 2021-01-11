@@ -53,3 +53,4 @@ class SlidingTabsDemo extends React.Component {
 
 ReactDOM.render(<SlidingTabsDemo />, mountNode);
 ```
+ 

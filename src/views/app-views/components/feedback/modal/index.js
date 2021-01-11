@@ -54,3 +54,4 @@ export class ModalComponent extends Component {
 }
 
 export default ModalComponent;
+ 

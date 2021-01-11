@@ -98,3 +98,4 @@ export class MaiDetail extends Component {
 }
 
 export default MaiDetail
+ 

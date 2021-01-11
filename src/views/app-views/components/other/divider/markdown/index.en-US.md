@@ -22,3 +22,4 @@ A divider line separates different content.
 | orientation | position of title inside divider | enum: `left` `right` `center` | `center` | 3.3.0 |
 | style | style object of container | object | - | 3.5.4 |
 | type | direction type of divider | enum: `horizontal` `vertical` | `horizontal` |  |
+ 

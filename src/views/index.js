@@ -61,4 +61,4 @@ const mapStateToProps = ({ theme, auth }) => {
   return { locale, direction, token }
 };
 
-export default withRouter(connect(mapStateToProps)(Views));
+export default withRouter(connect(mapStateToProps)(Views)); 

@@ -54,3 +54,4 @@ export class GlobalState extends Component {
 }
 
 export default GlobalState
+ 

@@ -26,3 +26,4 @@ export class Manual extends Component {
 }
 
 export default Manual;
+ 

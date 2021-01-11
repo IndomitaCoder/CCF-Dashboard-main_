@@ -59,3 +59,4 @@ class Horizontal extends React.Component {
 }
 
 export default Horizontal;
+ 

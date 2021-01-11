@@ -152,4 +152,4 @@ RegiondataWidget.defaultProps = {
 	mapType: 'world'
 };
 
-export default RegiondataWidget
+export default RegiondataWidget 

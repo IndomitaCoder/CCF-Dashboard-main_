@@ -60,3 +60,4 @@ export class UploadComponent extends Component {
 }
 
 export default UploadComponent;
+ 

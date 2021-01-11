@@ -22,3 +22,4 @@ export class AvatarBadge extends Component {
 }
 
 export default AvatarBadge;
+ 

@@ -17,3 +17,4 @@ export class Character extends Component {
 }
 
 export default Character;
+ 

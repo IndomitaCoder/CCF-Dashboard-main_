@@ -57,3 +57,4 @@ export class ProgressComponent extends Component {
 }
 
 export default ProgressComponent;
+ 

@@ -22,3 +22,4 @@ title: BackTop
 | target | specifies the scrollable area dom node | () => HTMLElement | () => window |  |
 | visibilityHeight | the `BackTop` button will not show until the scroll height reaches this value | number | 400 |  |
 | onClick | a callback function, which can be executed when you click the button | Function | - |  |
+ 

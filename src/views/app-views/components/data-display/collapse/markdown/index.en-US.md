@@ -36,3 +36,4 @@ A content area which can be collapsed and expanded.
 | key | Unique key identifying the panel from among its siblings | string\|number | - |  |
 | showArrow | If `false`, panel will not show arrow icon | boolean | `true` | 3.1.0 |
 | extra | extra element in the corner | ReactNode | - | 3.14.0 |
+ 

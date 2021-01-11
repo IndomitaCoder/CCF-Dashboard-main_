@@ -69,3 +69,4 @@ export class StackedColumn extends Component {
 }
 
 export default StackedColumn
+ 

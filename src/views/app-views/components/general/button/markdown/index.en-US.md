@@ -45,3 +45,4 @@ To get a customized button, just set `type`/`shape`/`size`/`loading`/`disabled`.
 | danger | set the danger status of button | boolean | `false` |  |
 
 It accepts all props which native buttons support.
+ 

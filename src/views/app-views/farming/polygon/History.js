@@ -11,4 +11,4 @@ const HistoryPane = (props) => {
   );
 }
 
-export default HistoryPane;
+export default HistoryPane; 

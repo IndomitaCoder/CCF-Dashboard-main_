@@ -33,3 +33,4 @@ A carousel component. Scales with its container.
 | prev() | Change current slide to previous slide |  |
 
 For more info on the parameters, refer to the <https://github.com/akiran/react-slick>
+ 

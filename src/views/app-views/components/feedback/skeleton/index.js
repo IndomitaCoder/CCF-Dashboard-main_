@@ -32,3 +32,4 @@ export class SkeletonComponent extends Component {
 }
 
 export default SkeletonComponent;
+ 

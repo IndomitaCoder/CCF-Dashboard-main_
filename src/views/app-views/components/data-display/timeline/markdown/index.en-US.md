@@ -43,3 +43,4 @@ Node of timeline
 | dot | Customize timeline dot | string\|ReactNode | - |
 | position | Customize node position | `left` \| `right` | - |
 | label | Set the label | ReactNode | - |
+ 

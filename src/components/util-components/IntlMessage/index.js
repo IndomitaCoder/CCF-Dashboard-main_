@@ -5,3 +5,4 @@ const IntlMessage = props => <FormattedMessage {...props} />;
 export default injectIntl(IntlMessage, {
   withRef: false
 });
+ 

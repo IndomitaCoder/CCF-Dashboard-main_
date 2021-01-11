@@ -32,3 +32,4 @@ export class DescriptionComponent extends Component {
 }
 
 export default DescriptionComponent;
+ 

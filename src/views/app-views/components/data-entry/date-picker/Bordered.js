@@ -28,3 +28,4 @@ export class Bordered extends Component {
 }
 
 export default Bordered
+ 

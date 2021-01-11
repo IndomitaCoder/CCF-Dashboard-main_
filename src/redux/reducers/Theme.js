@@ -67,4 +67,4 @@ const theme = (state = initTheme, action) => {
   }
 };
 
-export default theme
+export default theme 

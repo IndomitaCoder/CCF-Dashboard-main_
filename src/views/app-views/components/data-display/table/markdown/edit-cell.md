@@ -248,3 +248,4 @@ ReactDOM.render(<EditableTable />, mountNode);
   border: 1px solid #434343;
 }
 ```
+ 

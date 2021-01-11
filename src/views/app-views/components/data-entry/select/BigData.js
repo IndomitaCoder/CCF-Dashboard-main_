@@ -41,3 +41,4 @@ export class BigData extends Component {
 }
 
 export default BigData
+ 

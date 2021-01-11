@@ -69,3 +69,4 @@ const HorizontalLoginForm = () => {
 
 ReactDOM.render(<HorizontalLoginForm />, mountNode);
 ```
+ 

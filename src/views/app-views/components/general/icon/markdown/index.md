@@ -150,4 +150,4 @@ The following properties are available for the component:
 | height | The height of the `svg` element | string \| number | '1em' |  |
 | fill | Define the color used to paint the `svg` element | string | 'currentColor' |  |
 | className | The computed class name of the `svg` element | string | - |  |
-| style | The computed style of the `svg` element | CSSProperties | - |  |
+| style | The computed style of the `svg` element | CSSProperties | - |  | 

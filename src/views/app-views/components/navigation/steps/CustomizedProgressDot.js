@@ -29,3 +29,4 @@ class CustomizedProgressDot extends React.Component {
 }
 
 export default CustomizedProgressDot;
+ 

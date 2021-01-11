@@ -55,3 +55,4 @@ export class TabsComponent extends Component {
 }
 
 export default TabsComponent;
+ 

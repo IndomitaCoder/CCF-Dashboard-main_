@@ -18,3 +18,4 @@ export class Right extends Component {
 }
 
 export default Right;
+ 

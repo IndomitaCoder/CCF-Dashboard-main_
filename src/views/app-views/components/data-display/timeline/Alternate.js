@@ -24,3 +24,4 @@ export class Alternate extends Component {
 }
 
 export default Alternate;
+ 

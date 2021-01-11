@@ -12,4 +12,4 @@ const Charts = ({ match }) => (
   </Suspense>
 );
 
-export default Charts;
+export default Charts; 

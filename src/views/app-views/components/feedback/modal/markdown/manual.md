@@ -36,3 +36,4 @@ function countDown() {
 
 ReactDOM.render(<Button onClick={countDown}>Open modal to close in 5s</Button>, mountNode);
 ```
+ 

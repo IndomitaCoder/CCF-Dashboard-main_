@@ -21,3 +21,4 @@ export class Inside extends Component {
 }
 
 export default Inside;
+ 

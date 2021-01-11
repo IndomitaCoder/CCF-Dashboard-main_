@@ -9,4 +9,4 @@ class Simple extends React.Component {
     }
 }
 
-export default Simple;
+export default Simple; 

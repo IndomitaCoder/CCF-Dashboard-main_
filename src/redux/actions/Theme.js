@@ -71,4 +71,4 @@ export function onDirectionChange(direction) {
     type: DIRECTION_CHANGE,
     direction
   };
-}
+} 

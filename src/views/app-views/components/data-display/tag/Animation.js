@@ -104,3 +104,4 @@ export class Animation extends Component {
 }
 
 export default Animation;
+ 

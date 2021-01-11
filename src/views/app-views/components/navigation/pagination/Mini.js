@@ -18,3 +18,4 @@ class Mini extends React.Component {
 }
 
 export default Mini;
+ 

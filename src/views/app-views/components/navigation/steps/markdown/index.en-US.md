@@ -50,3 +50,4 @@ A single step in the step bar.
 | title | Title of the step | string\|ReactNode | - |  |
 | subTitle | Subtitle of the step | string\|ReactNode | - | 3.22.0 |
 | disabled | Disable click | boolean | false | 3.22.0 |
+ 

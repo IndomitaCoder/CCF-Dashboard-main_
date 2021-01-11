@@ -16,4 +16,4 @@ const Dashboards = ({ match }) => {
   )
 };
 
-export default Dashboards;
+export default Dashboards; 

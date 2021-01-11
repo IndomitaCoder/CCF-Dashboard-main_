@@ -73,3 +73,4 @@ const data = [
 
 ReactDOM.render(<Table columns={columns} dataSource={data} scroll={{ x: 1300 }} />, mountNode);
 ```
+ 

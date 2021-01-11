@@ -18,4 +18,4 @@ exampleService.setPost = function (data) {
   })
 }
 
-export default exampleService
+export default exampleService 

@@ -79,3 +79,4 @@ message.config({
 | getContainer | Return the mount node for Message | () => HTMLElement | () => document.body | 3.9.0 |
 | maxCount | max message show, drop oldest if exceed limit | number | - | 3.9.0 |
 | top | distance from top | number | 24 | 3.9.0 |
+ 

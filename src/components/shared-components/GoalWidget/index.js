@@ -37,3 +37,4 @@ GoalWidget.defaultProps = {
 };
 
 export default GoalWidget
+ 

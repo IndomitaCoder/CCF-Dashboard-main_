@@ -24,3 +24,4 @@ export class CustomStyle extends Component {
 }
 
 export default CustomStyle;
+ 

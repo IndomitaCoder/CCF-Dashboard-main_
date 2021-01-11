@@ -72,3 +72,4 @@ export class CustomRender extends Component {
 }
 
 export default CustomRender;
+ 

@@ -129,3 +129,4 @@ ChartWidget.defaultProps = {
 };
 
 export default ChartWidget
+ 

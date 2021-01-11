@@ -36,3 +36,4 @@ export class InputNumberComponent extends Component {
 }
 
 export default InputNumberComponent;
+ 

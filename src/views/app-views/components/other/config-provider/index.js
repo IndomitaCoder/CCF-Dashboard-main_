@@ -23,3 +23,4 @@ export class ConfigProviderComponent extends Component {
 }
 
 export default ConfigProviderComponent;
+ 

@@ -36,3 +36,4 @@ class Icon extends React.Component {
 }
 
 export default Icon;
+ 

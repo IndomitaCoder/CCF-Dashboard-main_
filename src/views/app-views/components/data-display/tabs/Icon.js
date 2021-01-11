@@ -36,3 +36,4 @@ export class TabIcon extends Component {
 }
 
 export default TabIcon;
+ 

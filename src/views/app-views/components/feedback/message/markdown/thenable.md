@@ -25,3 +25,4 @@ const success = () => {
 
 ReactDOM.render(<Button onClick={success}>Display sequential messages</Button>, mountNode);
 ```
+ 

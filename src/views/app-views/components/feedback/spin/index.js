@@ -42,3 +42,4 @@ export class SpinComponent extends Component {
 }
 
 export default SpinComponent;
+ 

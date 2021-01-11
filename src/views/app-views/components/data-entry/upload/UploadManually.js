@@ -86,3 +86,4 @@ export class UploadManually extends Component {
 }
 
 export default UploadManually;
+ 

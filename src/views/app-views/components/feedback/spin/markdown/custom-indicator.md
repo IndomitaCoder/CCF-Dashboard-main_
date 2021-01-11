@@ -20,3 +20,4 @@ const antIcon = <Icon type="loading" style={{ fontSize: 24 }} spin />;
 
 ReactDOM.render(<Spin indicator={antIcon} />, mountNode);
 ```
+ 

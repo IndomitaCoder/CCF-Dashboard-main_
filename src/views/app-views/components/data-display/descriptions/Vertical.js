@@ -18,3 +18,4 @@ export class Vertical extends Component {
 }
 
 export default Vertical;
+ 

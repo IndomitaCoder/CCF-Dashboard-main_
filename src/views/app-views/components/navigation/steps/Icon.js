@@ -18,3 +18,4 @@ class StepsIcon extends React.Component {
 }
 
 export default StepsIcon;
+ 

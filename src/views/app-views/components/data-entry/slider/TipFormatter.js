@@ -17,3 +17,4 @@ export class TipFormatter extends Component {
 }
 
 export default TipFormatter;
+ 

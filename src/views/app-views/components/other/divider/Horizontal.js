@@ -28,3 +28,4 @@ export class Horizontal extends Component {
 }
 
 export default Horizontal;
+ 

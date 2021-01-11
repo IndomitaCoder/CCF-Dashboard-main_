@@ -43,3 +43,4 @@ export class CustomizedIcon extends Component {
 }
 
 export default CustomizedIcon;
+ 

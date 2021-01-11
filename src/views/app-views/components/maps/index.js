@@ -13,4 +13,4 @@ const MapComponents = ({ match }) => (
   </div>
 );
 
-export default MapComponents;
+export default MapComponents; 

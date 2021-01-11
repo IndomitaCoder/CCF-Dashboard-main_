@@ -168,3 +168,4 @@ You will find that any event which causes the chart to re-render, such as hover 
 
 1. Add a `label` property on each dataset. By default, this library uses the `label` property as the key to distinguish datasets.
 2. Specify a different property to be used as a key by passing a `datasetKeyProvider` prop to your chart component, which would return a unique string value for each dataset.
+ 

@@ -106,3 +106,4 @@ class IconDisplay extends Component {
 }
 
 export default IconDisplay
+ 

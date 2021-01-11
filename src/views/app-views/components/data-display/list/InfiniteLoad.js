@@ -94,3 +94,4 @@ export class InfiniteLoad extends Component {
 }
 
 export default InfiniteLoad;
+ 

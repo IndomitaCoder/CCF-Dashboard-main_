@@ -63,3 +63,4 @@ const mapStateToProps = ({ theme }) => {
 };
 
 export default connect(mapStateToProps)(Logo);
+ 

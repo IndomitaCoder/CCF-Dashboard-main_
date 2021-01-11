@@ -82,3 +82,4 @@ export const NavProfile = ({signOut}) => {
 }
 
 export default connect(null, {signOut})(NavProfile)
+ 

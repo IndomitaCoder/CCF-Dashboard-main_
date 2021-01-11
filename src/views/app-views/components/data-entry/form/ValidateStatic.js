@@ -118,3 +118,4 @@ export class ValidateStatic extends Component {
 }
 
 export default ValidateStatic
+ 

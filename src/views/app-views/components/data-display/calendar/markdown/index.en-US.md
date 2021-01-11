@@ -46,3 +46,4 @@ When data is in the form of dates, such as schedules, timetables, prices calenda
 | onSelect | Callback for when a date is selected | function(date: moment） | - |  |
 | onChange | Callback for when date changes | function(date: moment） | - | 3.8.0 |
 | headerRender | render custom header in panel | function(object:{value: moment, type: string, onChange: f(), onTypeChange: f()}) | - | 3.19.0 |
+ 

@@ -84,3 +84,4 @@ class Side extends React.Component {
 }
 
 export default Side;
+ 

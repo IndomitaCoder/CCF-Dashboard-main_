@@ -17,4 +17,4 @@ const OtherComponents = ({ match }) => (
   </div>
 );
 
-export default OtherComponents;
+export default OtherComponents; 

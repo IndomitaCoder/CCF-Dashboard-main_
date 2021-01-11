@@ -48,3 +48,4 @@ More option at [rc-tabs option](https://github.com/react-component/tabs#tabs)
 | tab | Show text in TabPane's head | string\|ReactNode | - |  |
 
 More option at [rc-tabs option](https://github.com/react-component/tabs#tabpane)
+ 

@@ -10,4 +10,4 @@ const AppLocale = {
     ja: jaLang
 };
 
-export default AppLocale;
+export default AppLocale; 

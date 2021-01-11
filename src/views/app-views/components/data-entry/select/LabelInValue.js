@@ -24,3 +24,4 @@ export class LabelInValue extends Component {
 }
 
 export default LabelInValue;
+ 

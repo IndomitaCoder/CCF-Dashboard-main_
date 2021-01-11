@@ -47,3 +47,4 @@ export class Resposive extends Component {
 }
 
 export default Resposive;
+ 

@@ -40,4 +40,4 @@ StatisticWidget.propTypes = {
 	prefix: PropTypes.element
 };
 
-export default StatisticWidget
+export default StatisticWidget 

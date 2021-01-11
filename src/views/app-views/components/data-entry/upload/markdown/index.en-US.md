@@ -88,3 +88,4 @@ Please set property `url` of each item in `fileList` to control content of link.
 ### How to use `customRequest`?
 
 See <https://github.com/react-component/upload#customrequest>.
+ 

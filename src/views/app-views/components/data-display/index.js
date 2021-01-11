@@ -45,4 +45,4 @@ const DataDisplayComponents = ({ match }) => (
   </div>
 );
 
-export default DataDisplayComponents;
+export default DataDisplayComponents; 

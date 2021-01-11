@@ -26,3 +26,4 @@ export class Addon extends Component {
 }
 
 export default Addon;
+ 

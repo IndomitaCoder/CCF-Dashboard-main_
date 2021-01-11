@@ -39,3 +39,4 @@ export class RateComponent extends Component {
 }
 
 export default RateComponent;
+ 

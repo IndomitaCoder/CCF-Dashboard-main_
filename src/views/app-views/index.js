@@ -19,3 +19,4 @@ export const AppViews = () => {
 }
 
 export default React.memo(AppViews);
+ 

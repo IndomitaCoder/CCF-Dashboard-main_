@@ -20,3 +20,4 @@ Comments can be used to enable discussions on an entity such as a page, blog pos
 | children | Nested comments should be provided as children of the Comment | ReactNode | - | 3.11.0 |
 | content | The main content of the comment | string\|ReactNode | - | 3.11.0 |
 | datetime | A datetime element containing the time to be displayed | string\|ReactNode | - | 3.11.0 |
+ 

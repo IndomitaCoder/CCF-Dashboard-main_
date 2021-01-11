@@ -47,4 +47,4 @@ const mapStateToProps = ({ theme }) => {
   return { locale }
 };
 
-export default connect(mapStateToProps)(NavPanel);
+export default connect(mapStateToProps)(NavPanel); 

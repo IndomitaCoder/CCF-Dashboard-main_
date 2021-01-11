@@ -24,3 +24,4 @@ export class ConfirmPromise extends Component {
 }
 
 export default ConfirmPromise;
+ 

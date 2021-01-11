@@ -32,3 +32,4 @@ export class Type extends Component {
 }
 
 export default Type;
+ 

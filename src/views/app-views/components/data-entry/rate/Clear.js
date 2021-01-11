@@ -16,3 +16,4 @@ export class Clear extends Component {
 }
 
 export default Clear;
+ 

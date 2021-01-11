@@ -32,3 +32,4 @@ export class Colorful extends Component {
 }
 
 export default Colorful;
+ 

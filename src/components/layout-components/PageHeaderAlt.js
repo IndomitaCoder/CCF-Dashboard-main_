@@ -49,4 +49,4 @@ const mapStateToProps = ({ theme }) => {
   return { navType }
 };
 
-export default connect(mapStateToProps, {})(PageHeaderAlt);
+export default connect(mapStateToProps, {})(PageHeaderAlt); 

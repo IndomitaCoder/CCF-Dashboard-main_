@@ -28,3 +28,4 @@ class Trigger extends React.Component {
 }
 
 export default Trigger;
+ 

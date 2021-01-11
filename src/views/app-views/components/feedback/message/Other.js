@@ -26,3 +26,4 @@ export class Other extends Component {
 }
 
 export default Other;
+ 

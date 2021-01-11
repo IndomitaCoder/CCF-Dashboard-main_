@@ -80,4 +80,4 @@ const auth = (state = initState, action) => {
 	}
 }
 
-export default auth
+export default auth 

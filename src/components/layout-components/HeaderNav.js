@@ -99,4 +99,4 @@ const mapStateToProps = ({ theme }) => {
   return { navCollapsed, navType, headerNavColor, mobileNav, currentTheme, direction }
 };
 
-export default connect(mapStateToProps, { toggleCollapsedNav, onMobileNavToggle })(HeaderNav);
+export default connect(mapStateToProps, { toggleCollapsedNav, onMobileNavToggle })(HeaderNav); 

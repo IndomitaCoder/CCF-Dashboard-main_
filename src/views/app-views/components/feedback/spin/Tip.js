@@ -16,3 +16,4 @@ export class Tip extends Component {
 }
 
 export default Tip;
+ 

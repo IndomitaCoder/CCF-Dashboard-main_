@@ -146,3 +146,4 @@ export class TransferTableTransfer extends Component {
 }
 
 export default TransferTableTransfer;
+ 

@@ -72,3 +72,4 @@ td.column-money {
   text-align: right !important;
 }
 ```
+ 

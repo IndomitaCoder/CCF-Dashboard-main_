@@ -38,3 +38,4 @@ export class StatisticCard extends Component {
 }
 
 export default StatisticCard;
+ 

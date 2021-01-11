@@ -52,3 +52,4 @@ export class PictureStyle extends Component {
 }
 
 export default PictureStyle;
+ 

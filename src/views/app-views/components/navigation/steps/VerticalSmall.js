@@ -16,3 +16,4 @@ class VerticalSmall extends React.Component {
 }
 
 export default VerticalSmall;
+ 

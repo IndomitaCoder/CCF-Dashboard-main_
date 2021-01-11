@@ -23,3 +23,4 @@ export class Autoplay extends Component {
 }
 
 export default Autoplay;
+ 

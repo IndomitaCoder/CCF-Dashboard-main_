@@ -40,3 +40,4 @@ To input a value in a range.
 | ------- | ------------ | ------- |
 | blur()  | remove focus |         |
 | focus() | get focus    |         |
+ 

@@ -393,4 +393,4 @@ export const scrumboardData = {
 	'Processing': [...processingCards],
 	'Submitted': [...submittedCards],
 	'Completed': [...completedCards]
-}
+} 

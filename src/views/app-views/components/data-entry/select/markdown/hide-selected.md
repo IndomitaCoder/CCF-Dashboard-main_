@@ -50,3 +50,4 @@ class SelectWithHiddenSelectedOptions extends React.Component {
 
 ReactDOM.render(<SelectWithHiddenSelectedOptions />, mountNode);
 ```
+ 

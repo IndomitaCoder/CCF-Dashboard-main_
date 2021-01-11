@@ -41,3 +41,4 @@ A Drawer is a panel that is typically overlaid on top of a page and slides in fr
 | keyboard | Whether support press esc to close | Boolean | true |
 | footer | The footer for Drawer. | ReactNode | - |
 | footerStyle | Style of the drawer footer part. | CSSProperties | - |
+ 

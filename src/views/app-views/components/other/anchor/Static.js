@@ -19,3 +19,4 @@ export class Static extends Component {
 }
 
 export default Static;
+ 

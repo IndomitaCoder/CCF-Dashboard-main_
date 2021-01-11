@@ -132,4 +132,4 @@ export const recentOrderData = [
 		paymentStatus: 'Pending',
 		orderStatus: 'Ready'
 	},
-]
+] 

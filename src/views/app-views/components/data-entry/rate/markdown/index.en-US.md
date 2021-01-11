@@ -38,3 +38,4 @@ Rate component.
 | ------- | ------------ | ------- |
 | blur()  | remove focus |         |
 | focus() | get focus    |         |
+ 

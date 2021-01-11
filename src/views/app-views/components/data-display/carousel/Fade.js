@@ -23,3 +23,4 @@ export class Fade extends Component {
 }
 
 export default Fade;
+ 

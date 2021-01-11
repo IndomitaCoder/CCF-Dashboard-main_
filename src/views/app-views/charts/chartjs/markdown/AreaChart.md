@@ -91,3 +91,4 @@ export class AreaChart extends Component {
 
 export default AreaChart
 ```
+ 

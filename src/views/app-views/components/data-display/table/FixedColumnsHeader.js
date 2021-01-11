@@ -88,3 +88,4 @@ export class FixedColumnsHeader extends Component {
 }
 
 export default FixedColumnsHeader;
+ 

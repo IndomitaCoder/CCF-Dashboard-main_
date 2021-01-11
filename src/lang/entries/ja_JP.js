@@ -9,3 +9,4 @@ const JaLang = {
   },
 };
 export default JaLang;
+ 

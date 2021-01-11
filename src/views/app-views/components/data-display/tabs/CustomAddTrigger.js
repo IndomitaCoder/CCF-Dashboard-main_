@@ -76,3 +76,4 @@ export class CustomAddTrigger extends Component {
 }
 
 export default CustomAddTrigger;
+ 

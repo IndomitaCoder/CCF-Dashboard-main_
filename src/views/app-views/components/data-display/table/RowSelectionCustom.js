@@ -80,3 +80,4 @@ export class RowSelectionCustom extends Component {
 }
 
 export default RowSelectionCustom;
+ 

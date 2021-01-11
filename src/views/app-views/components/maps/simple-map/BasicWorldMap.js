@@ -23,3 +23,4 @@ export class BasicWorldMap extends Component {
 }
 
 export default BasicWorldMap
+ 

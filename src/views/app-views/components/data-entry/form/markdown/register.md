@@ -263,3 +263,4 @@ const RegistrationForm = () => {
 
 ReactDOM.render(<RegistrationForm />, mountNode);
 ```
+ 

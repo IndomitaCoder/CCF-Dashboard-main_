@@ -83,4 +83,4 @@ const mapStateToProps = ({ theme }) => {
   return { navCollapsed, navType, locale }
 };
 
-export default connect(mapStateToProps)(React.memo(AppLayout));
+export default connect(mapStateToProps)(React.memo(AppLayout)); 

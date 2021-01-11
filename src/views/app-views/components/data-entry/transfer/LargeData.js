@@ -47,3 +47,4 @@ export class LargeData extends Component {
 }
 
 export default LargeData;
+ 

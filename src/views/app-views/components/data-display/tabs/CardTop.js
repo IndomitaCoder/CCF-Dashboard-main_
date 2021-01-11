@@ -32,3 +32,4 @@ export class CardTop extends Component {
 }
 
 export default CardTop;
+ 

@@ -14,3 +14,4 @@ export class Linecap extends Component {
 }
 
 export default Linecap;
+ 

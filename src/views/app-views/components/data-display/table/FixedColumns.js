@@ -55,3 +55,4 @@ export class FixedColumns extends Component {
 }
 
 export default FixedColumns;
+ 

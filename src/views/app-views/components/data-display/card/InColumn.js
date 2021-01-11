@@ -28,3 +28,4 @@ export class InColumn extends Component {
 }
 
 export default InColumn;
+ 

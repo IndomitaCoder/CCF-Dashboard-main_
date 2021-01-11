@@ -18,3 +18,4 @@ class SeperatorIndepent extends React.Component {
 }
 
 export default SeperatorIndepent;
+ 

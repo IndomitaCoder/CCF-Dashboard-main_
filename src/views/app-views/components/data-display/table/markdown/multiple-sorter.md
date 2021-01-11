@@ -81,3 +81,4 @@ function onChange(pagination, filters, sorter, extra) {
 
 ReactDOM.render(<Table columns={columns} dataSource={data} onChange={onChange} />, mountNode);
 ```
+ 

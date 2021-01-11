@@ -27,3 +27,4 @@ export class TriggerType extends Component {
 }
 
 export default TriggerType;
+ 

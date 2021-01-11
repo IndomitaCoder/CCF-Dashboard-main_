@@ -27,4 +27,4 @@ const mapStateToProps = ({ theme }) => {
   return { headerNavColor }
 };
 
-export default connect(mapStateToProps, {})(NavSearch)
+export default connect(mapStateToProps, {})(NavSearch) 

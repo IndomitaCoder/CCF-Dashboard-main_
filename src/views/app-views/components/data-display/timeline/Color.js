@@ -37,3 +37,4 @@ export class Color extends Component {
 }
 
 export default Color;
+ 

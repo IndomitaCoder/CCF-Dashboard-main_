@@ -15,3 +15,4 @@ export class Duration extends Component {
 }
 
 export default Duration;
+ 

@@ -45,3 +45,4 @@ class Ghost extends React.Component {
 }
 
 export default Ghost;
+ 

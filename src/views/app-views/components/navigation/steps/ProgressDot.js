@@ -35,3 +35,4 @@ class ProgressDot extends React.Component {
 }
 
 export default ProgressDot;
+ 

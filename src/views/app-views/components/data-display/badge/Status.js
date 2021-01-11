@@ -26,3 +26,4 @@ export class Status extends Component {
 }
 
 export default Status;
+ 

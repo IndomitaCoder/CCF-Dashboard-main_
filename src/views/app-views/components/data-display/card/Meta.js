@@ -32,3 +32,4 @@ export class CardMeta extends Component {
 }
 
 export default CardMeta;
+ 

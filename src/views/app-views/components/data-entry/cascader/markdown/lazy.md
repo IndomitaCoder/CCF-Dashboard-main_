@@ -79,3 +79,4 @@ class LazyOptions extends React.Component {
 
 ReactDOM.render(<LazyOptions />, mountNode);
 ```
+ 

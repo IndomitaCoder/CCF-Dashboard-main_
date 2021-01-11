@@ -86,3 +86,4 @@ class InlineCollapsed extends React.Component {
 }
 
 export default InlineCollapsed;
+ 

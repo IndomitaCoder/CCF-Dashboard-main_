@@ -15,3 +15,4 @@ export class Result404 extends Component {
 }
 
 export default Result404;
+ 

@@ -47,3 +47,4 @@ export class AnchorComponent extends Component {
 }
 
 export default AnchorComponent;
+ 

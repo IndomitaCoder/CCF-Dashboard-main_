@@ -111,4 +111,4 @@ export const RecentTransactionData = [
 		date: '28 April 2020',
 		avatarColor: '#ff6b72'
 	},
-];
+]; 

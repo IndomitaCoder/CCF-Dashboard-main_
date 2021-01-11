@@ -44,4 +44,4 @@ export const pricingData = [
             "Unlimited Cloud Power"
         ]
     }
-]
+] 

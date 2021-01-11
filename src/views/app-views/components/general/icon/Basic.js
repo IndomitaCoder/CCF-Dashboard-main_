@@ -20,4 +20,4 @@ export const Basic = () => {
 	)
 }
 
-export default Basic
+export default Basic 

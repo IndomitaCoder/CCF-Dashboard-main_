@@ -72,3 +72,4 @@ interface Option {
 | ------- | ------------ | ------- |
 | blur()  | remove focus |         |
 | focus() | get focus    |         |
+ 

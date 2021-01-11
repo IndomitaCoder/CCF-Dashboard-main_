@@ -15,3 +15,4 @@ class Seperator extends React.Component {
 }
 
 export default Seperator;
+ 

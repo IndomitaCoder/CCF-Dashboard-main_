@@ -21,3 +21,4 @@ export class SearchInputLoading extends Component {
 }
 
 export default SearchInputLoading;
+ 

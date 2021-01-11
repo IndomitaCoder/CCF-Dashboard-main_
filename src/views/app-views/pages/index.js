@@ -16,4 +16,4 @@ const Pages = ({ match }) => (
   </Suspense>
 );
 
-export default Pages;
+export default Pages; 

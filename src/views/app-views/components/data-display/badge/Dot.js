@@ -22,3 +22,4 @@ export class Dot extends Component {
 }
 
 export default Dot;
+ 

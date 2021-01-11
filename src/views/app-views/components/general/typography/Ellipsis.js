@@ -34,3 +34,4 @@ class Ellipsis extends React.Component {
 }
 
 export default Ellipsis;
+ 

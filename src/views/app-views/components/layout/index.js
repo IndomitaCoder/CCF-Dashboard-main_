@@ -13,4 +13,4 @@ const LayoutComponents = ({ match }) => (
   </div>
 );
 
-export default LayoutComponents;
+export default LayoutComponents; 

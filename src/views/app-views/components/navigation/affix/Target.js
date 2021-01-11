@@ -22,3 +22,4 @@ class Target extends React.Component {
 }
 
 export default Target;
+ 

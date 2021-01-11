@@ -84,3 +84,4 @@ export class Tabs extends Component {
 }
 
 export default Tabs;
+ 

@@ -30,3 +30,4 @@ export class TooltipComponent extends Component {
 }
 
 export default TooltipComponent;
+ 

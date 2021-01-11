@@ -18,4 +18,4 @@ const PageRouter = ({ routes, from, to, align, cover }) => {
 	)
 }
 
-export default PageRouter
+export default PageRouter 

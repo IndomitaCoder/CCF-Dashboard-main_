@@ -34,3 +34,4 @@ export class StatisticComponent extends Component {
 }
 
 export default StatisticComponent;
+ 

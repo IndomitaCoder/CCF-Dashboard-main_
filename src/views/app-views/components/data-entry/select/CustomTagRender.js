@@ -28,3 +28,4 @@ export class CustomTagRender extends Component {
 }
 
 export default CustomTagRender
+ 

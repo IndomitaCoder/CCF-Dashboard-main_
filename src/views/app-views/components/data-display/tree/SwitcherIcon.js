@@ -74,3 +74,4 @@ export class SwitcherIcon extends Component {
 }
 
 export default SwitcherIcon;
+ 

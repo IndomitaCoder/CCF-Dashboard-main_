@@ -36,3 +36,4 @@ export class SwitchComponent extends Component {
 }
 
 export default SwitchComponent;
+ 

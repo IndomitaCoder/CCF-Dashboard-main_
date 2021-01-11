@@ -33,3 +33,4 @@ export class AvatarComponent extends Component {
 }
 
 export default AvatarComponent;
+ 

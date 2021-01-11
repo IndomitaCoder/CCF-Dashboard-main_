@@ -43,4 +43,4 @@ const DataEntryComponents = ({ match }) => (
   </div>
 );
 
-export default DataEntryComponents;
+export default DataEntryComponents; 

@@ -34,3 +34,4 @@ export class CarouselComponent extends Component {
 }
 
 export default CarouselComponent;
+ 

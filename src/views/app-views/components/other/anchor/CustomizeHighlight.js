@@ -23,3 +23,4 @@ export class CustomizeHighlight extends Component {
 }
 
 export default CustomizeHighlight;
+ 

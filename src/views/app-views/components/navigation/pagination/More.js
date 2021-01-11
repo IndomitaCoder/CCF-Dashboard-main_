@@ -8,3 +8,4 @@ class More extends React.Component {
 }
 
 export default More;
+ 

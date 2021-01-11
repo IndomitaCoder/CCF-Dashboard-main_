@@ -32,3 +32,4 @@ export class TypographyComponent extends Component {
 }
 
 export default TypographyComponent;
+ 

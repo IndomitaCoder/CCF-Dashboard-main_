@@ -42,3 +42,4 @@ export class FixedHeader extends Component {
 }
 
 export default FixedHeader;
+ 

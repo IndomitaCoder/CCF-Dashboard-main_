@@ -90,3 +90,4 @@ export class Ajax extends Component {
 }
 
 export default Ajax;
+ 

@@ -397,3 +397,4 @@ If you have multiple `GoogleMapReact` components in project and you want to use 
 ### Localizing the Map
 
 This is done by setting bootstrapURLKeys.[language](https://developers.google.com/maps/documentation/javascript/localization#Language) and bootstrapURLKeys.[region](https://developers.google.com/maps/documentation/javascript/localization#Region). Also notice that setting region to 'cn' is required when using the map from within China, see [google documentation](https://developers.google.com/maps/documentation/javascript/localization#GoogleMapsChina) for more info. Setting 'cn' will result in use of the specific API URL for China.
+ 

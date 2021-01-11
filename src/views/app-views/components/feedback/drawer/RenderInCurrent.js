@@ -53,3 +53,4 @@ export class RenderInCurrent extends Component {
 }
 
 export default RenderInCurrent;
+ 

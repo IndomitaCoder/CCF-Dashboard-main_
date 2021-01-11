@@ -32,3 +32,4 @@ export class TransferComponent extends Component {
 }
 
 export default TransferComponent;
+ 

@@ -15,3 +15,4 @@ export class Style extends Component {
 }
 
 export default Style;
+ 

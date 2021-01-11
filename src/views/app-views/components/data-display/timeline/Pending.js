@@ -33,3 +33,4 @@ export class Pending extends Component {
 }
 
 export default Pending;
+ 

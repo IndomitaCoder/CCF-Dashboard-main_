@@ -36,3 +36,4 @@ export class CollapseComponent extends Component {
 }
 
 export default CollapseComponent;
+ 

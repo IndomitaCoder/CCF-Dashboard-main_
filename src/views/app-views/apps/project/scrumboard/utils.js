@@ -99,4 +99,4 @@ export const createCommentObject = () => {
 		message: '',
 		date: new Date()
 	}
-}
+} 

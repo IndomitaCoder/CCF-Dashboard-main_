@@ -150,3 +150,4 @@ const Board = ({ title, contents, index, isScrollable, isCombineEnabled, useClon
 }
 
 export default Board
+ 

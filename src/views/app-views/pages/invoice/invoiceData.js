@@ -17,4 +17,4 @@ export const invoiceData = [
 		quantity: 1,
 		price: 977.00
 	},
-]
+] 

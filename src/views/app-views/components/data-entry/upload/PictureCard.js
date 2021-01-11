@@ -91,3 +91,4 @@ export class PictureCard extends Component {
 }
 
 export default PictureCard;
+ 

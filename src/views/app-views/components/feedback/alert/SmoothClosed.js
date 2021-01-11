@@ -28,3 +28,4 @@ export class SmoothClosed extends Component {
 }
 
 export default SmoothClosed;
+ 

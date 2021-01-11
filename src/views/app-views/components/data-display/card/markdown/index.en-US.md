@@ -55,3 +55,4 @@ A card can be used to display content related to a single subject. The content c
 | description | description content       | ReactNode | -       |         |
 | style       | style object of container | object    | -       |         |
 | title       | title content             | ReactNode | -       |         |
+ 

@@ -134,3 +134,4 @@ const data = [
 
 ReactDOM.render(<Table columns={columns} dataSource={data} bordered />, mountNode);
 ```
+ 

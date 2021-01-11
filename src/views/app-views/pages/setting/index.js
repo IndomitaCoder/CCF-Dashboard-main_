@@ -64,3 +64,4 @@ export class Setting extends Component {
 }
 
 export default Setting
+ 

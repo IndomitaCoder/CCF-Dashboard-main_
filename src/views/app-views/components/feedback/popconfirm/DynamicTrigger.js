@@ -59,3 +59,4 @@ export class DynamicTrigger extends Component {
 }
 
 export default DynamicTrigger;
+ 

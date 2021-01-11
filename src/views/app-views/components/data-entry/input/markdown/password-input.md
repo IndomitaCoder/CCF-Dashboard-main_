@@ -18,3 +18,4 @@ import { Input } from 'antd';
 
 ReactDOM.render(<Input.Password placeholder="input password" />, mountNode);
 ```
+ 

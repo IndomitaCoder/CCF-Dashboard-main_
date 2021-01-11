@@ -34,3 +34,4 @@ export class WithText extends Component {
 }
 
 export default WithText;
+ 

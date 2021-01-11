@@ -39,3 +39,4 @@ export class VerticalBorder extends Component {
 }
 
 export default VerticalBorder;
+ 

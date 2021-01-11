@@ -15,3 +15,4 @@ export class LineMini extends Component {
 }
 
 export default LineMini;
+ 

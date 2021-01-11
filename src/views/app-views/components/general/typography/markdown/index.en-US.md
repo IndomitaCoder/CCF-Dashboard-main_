@@ -60,3 +60,4 @@ Basic text writing, including headings, body text, lists, and more.
 | onChange | Trigger when user edits the content | Function(string) | - |  |
 | strong | Bold style | boolean | false |  |
 | type | Content type | `secondary` \| `warning` \| `danger` | - |  |
+ 

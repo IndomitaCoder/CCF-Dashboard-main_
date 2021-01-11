@@ -8,4 +8,4 @@ const DataDisplayComponents = ({ match }) => (
   </React.Fragment>
 );
 
-export default DataDisplayComponents;
+export default DataDisplayComponents; 

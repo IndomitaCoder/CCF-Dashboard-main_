@@ -26,3 +26,4 @@ export class CommentComponent extends Component {
 }
 
 export default CommentComponent;
+ 

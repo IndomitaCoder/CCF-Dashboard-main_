@@ -87,3 +87,4 @@ class SwitchMode extends React.Component {
 }
 
 export default SwitchMode;
+ 

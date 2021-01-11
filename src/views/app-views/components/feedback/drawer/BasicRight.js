@@ -39,3 +39,4 @@ export class BasicRight extends Component {
 }
 
 export default BasicRight;
+ 

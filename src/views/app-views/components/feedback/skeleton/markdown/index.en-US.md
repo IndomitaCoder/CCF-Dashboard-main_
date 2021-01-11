@@ -60,3 +60,4 @@ Provide a placeholder while you wait for content to load, or to visualise conten
 | -------- | ---------------------- | ------------------------------- | ------- |
 | active   | Show animation effect  | boolean                         | false   |
 | size     | Set the size of button | `large` \| `small` \| `default` | -       |
+ 

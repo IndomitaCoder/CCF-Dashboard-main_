@@ -176,3 +176,4 @@ const mapStateToProps = ({ theme }) => {
 };
 
 export default connect(mapStateToProps, { onMobileNavToggle })(MenuContent);
+ 

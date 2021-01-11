@@ -15,4 +15,4 @@ const GeneralComponents = ({ match }) => (
   </div>
 );
 
-export default GeneralComponents;
+export default GeneralComponents; 

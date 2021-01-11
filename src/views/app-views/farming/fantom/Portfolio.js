@@ -12,4 +12,4 @@ const PortfolioPane = (props) => {
   );
 }
 
-export default PortfolioPane;
+export default PortfolioPane; 

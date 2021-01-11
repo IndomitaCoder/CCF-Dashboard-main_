@@ -61,3 +61,4 @@ export class Locale extends Component {
 }
 
 export default Locale;
+ 

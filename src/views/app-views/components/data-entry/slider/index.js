@@ -48,3 +48,4 @@ export class SliderComponent extends Component {
 }
 
 export default SliderComponent;
+ 

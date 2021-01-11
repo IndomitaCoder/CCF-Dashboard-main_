@@ -151,3 +151,4 @@ class Locale extends React.Component {
 }
 
 export default Locale;
+ 

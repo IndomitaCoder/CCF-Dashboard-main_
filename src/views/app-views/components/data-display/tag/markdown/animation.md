@@ -120,3 +120,4 @@ class EditableTagGroup extends React.Component {
 
 ReactDOM.render(<EditableTagGroup />, mountNode);
 ```
+ 

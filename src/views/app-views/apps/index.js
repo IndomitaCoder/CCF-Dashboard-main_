@@ -15,4 +15,4 @@ const Apps = ({ match }) => (
   </Suspense>
 );
 
-export default Apps;
+export default Apps; 

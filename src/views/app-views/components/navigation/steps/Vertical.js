@@ -16,3 +16,4 @@ class Vertical extends React.Component {
 }
 
 export default Vertical;
+ 

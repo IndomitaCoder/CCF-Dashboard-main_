@@ -13,4 +13,4 @@ const ChartsComponents = ({ match }) => (
   </div>
 );
 
-export default ChartsComponents;
+export default ChartsComponents; 

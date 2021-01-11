@@ -44,3 +44,4 @@ CustomStatistic.defaultProps = {
 
 
 export default CustomStatistic
+ 

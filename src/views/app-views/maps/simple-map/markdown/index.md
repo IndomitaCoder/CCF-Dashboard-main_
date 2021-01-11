@@ -96,3 +96,4 @@ Read the [docs](https://www.react-simple-maps.io/docs/getting-started/), or chec
 |dy|Number|30|
 |curve|Number|0|
 |connectorProps|Object||
+ 

@@ -17,3 +17,4 @@ export class Value extends Component {
 }
 
 export default Value;
+ 

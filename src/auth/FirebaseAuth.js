@@ -22,4 +22,4 @@ export {
 	facebookAuthProvider,
 	twitterAuthProvider,
 	githubAuthProvider
-};
+}; 

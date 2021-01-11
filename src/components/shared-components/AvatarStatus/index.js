@@ -36,3 +36,4 @@ AvatarStatus.propTypes = {
 
 
 export default AvatarStatus;
+ 

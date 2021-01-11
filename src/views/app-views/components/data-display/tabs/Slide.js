@@ -41,3 +41,4 @@ export class Slide extends Component {
 }
 
 export default Slide;
+ 

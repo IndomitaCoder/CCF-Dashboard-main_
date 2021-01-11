@@ -7,4 +7,4 @@ const reducers = combineReducers({
     auth: Auth
 });
 
-export default reducers;
+export default reducers; 

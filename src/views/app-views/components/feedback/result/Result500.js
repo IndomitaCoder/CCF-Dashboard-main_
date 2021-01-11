@@ -15,3 +15,4 @@ export class Result500 extends Component {
 }
 
 export default Result500;
+ 

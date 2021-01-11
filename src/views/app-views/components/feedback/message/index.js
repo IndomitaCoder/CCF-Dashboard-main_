@@ -39,3 +39,4 @@ export class MessageComponent extends Component {
 }
 
 export default MessageComponent;
+ 

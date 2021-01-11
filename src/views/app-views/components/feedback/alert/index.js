@@ -49,3 +49,4 @@ export class AlertComponent extends Component {
 }
 
 export default AlertComponent;
+ 

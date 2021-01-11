@@ -39,3 +39,4 @@ class Fixed extends React.Component {
 }
 
 export default Fixed;
+ 

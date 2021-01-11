@@ -14,3 +14,4 @@ export class CircleMini extends Component {
 }
 
 export default CircleMini;
+ 

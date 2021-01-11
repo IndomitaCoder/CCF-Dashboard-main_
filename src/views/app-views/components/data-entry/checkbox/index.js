@@ -39,3 +39,4 @@ export class CheckboxComponent extends Component {
 }
 
 export default CheckboxComponent;
+ 

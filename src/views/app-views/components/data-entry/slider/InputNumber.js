@@ -92,3 +92,4 @@ export class SliderInputNumber extends Component {
 }
 
 export default SliderInputNumber;
+ 

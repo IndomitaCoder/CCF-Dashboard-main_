@@ -39,3 +39,4 @@ export class ChartJs extends Component {
 }
 
 export default ChartJs
+ 

@@ -59,3 +59,4 @@ export class Coordinate extends Component {
 }
 
 export default Coordinate;
+ 

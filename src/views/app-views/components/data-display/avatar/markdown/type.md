@@ -40,4 +40,4 @@ ReactDOM.render(
   </div>,
   mountNode,
 );
-```
+``` 

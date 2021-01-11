@@ -15,3 +15,4 @@ export class CustomIcon extends Component {
 }
 
 export default CustomIcon;
+ 

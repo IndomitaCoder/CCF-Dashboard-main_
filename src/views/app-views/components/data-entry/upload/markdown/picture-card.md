@@ -120,3 +120,4 @@ ReactDOM.render(<PicturesWall />, mountNode);
   color: #666;
 }
 ```
+ 

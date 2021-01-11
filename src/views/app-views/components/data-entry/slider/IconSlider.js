@@ -42,3 +42,4 @@ export class SliderIconSlider extends Component {
 }
 
 export default SliderIconSlider;
+ 

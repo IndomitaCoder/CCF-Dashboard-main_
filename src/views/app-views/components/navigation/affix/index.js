@@ -32,3 +32,4 @@ export class AffixComponent extends Component {
 }
 
 export default AffixComponent;
+ 

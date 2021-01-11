@@ -71,3 +71,4 @@ class MyUpload extends React.Component {
 
 ReactDOM.render(<MyUpload />, mountNode);
 ```
+ 

@@ -7,4 +7,4 @@ const ComponentIntro = ({name, desc}) => (
 	</div>
 )
 
-export default ComponentIntro
+export default ComponentIntro 

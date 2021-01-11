@@ -58,4 +58,4 @@ const CalendarData = [
 	}
 ]
 
-export default CalendarData
+export default CalendarData 

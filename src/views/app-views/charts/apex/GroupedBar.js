@@ -51,3 +51,4 @@ export class GroupedBar extends Component {
 }
 
 export default GroupedBar
+ 

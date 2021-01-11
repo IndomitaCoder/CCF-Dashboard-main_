@@ -42,4 +42,4 @@ ReactDOM.render(
   </Collapse>,
   mountNode,
 );
-```
+``` 

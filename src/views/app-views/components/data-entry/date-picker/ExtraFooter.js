@@ -22,3 +22,4 @@ export class ExtraFooter extends Component {
 }
 
 export default ExtraFooter
+ 

@@ -12,3 +12,4 @@ export class Digit extends Component {
 }
 
 export default Digit;
+ 

@@ -24,4 +24,4 @@ JwtAuthService.signUp = function (data) {
 	})
 }
 
-export default JwtAuthService
+export default JwtAuthService 

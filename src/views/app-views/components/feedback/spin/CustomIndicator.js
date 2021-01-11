@@ -11,3 +11,4 @@ export class CustomIndicator extends Component {
 }
 
 export default CustomIndicator;
+ 

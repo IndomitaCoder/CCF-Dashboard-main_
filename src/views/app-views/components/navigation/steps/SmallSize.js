@@ -16,3 +16,4 @@ class SmallSize extends React.Component {
 }
 
 export default SmallSize;
+ 

@@ -152,4 +152,4 @@ export const ImageSvg = () => (
       </g>
     </g>
   </svg>
-)
+) 

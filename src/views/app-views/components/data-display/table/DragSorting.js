@@ -156,3 +156,4 @@ export class DragSorting extends Component {
 }
 
 export default DragSorting;
+ 

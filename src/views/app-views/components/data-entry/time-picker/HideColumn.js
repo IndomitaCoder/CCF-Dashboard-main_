@@ -13,3 +13,4 @@ export class HideColumn extends Component {
 }
 
 export default HideColumn;
+ 

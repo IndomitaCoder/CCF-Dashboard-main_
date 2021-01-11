@@ -28,3 +28,4 @@ export class AutomaticTokenization extends Component {
 }
 
 export default AutomaticTokenization;
+ 

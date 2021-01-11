@@ -18,3 +18,4 @@ export class MailContent extends Component {
 }
 
 export default MailContent
+ 

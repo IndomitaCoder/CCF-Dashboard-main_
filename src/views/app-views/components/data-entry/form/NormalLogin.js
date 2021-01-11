@@ -59,3 +59,4 @@ export class NormalLogin extends Component {
 }
 
 export default NormalLogin
+ 

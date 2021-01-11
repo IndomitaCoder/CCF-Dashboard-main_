@@ -15,3 +15,4 @@ export class Thenable extends Component {
 }
 
 export default Thenable;
+ 

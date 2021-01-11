@@ -22,3 +22,4 @@ export class Segment extends Component {
 }
 
 export default Segment;
+ 

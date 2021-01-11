@@ -48,3 +48,4 @@ export class NotificationComponent extends Component {
 }
 
 export default NotificationComponent;
+ 

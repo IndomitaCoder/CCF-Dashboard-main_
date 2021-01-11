@@ -9,3 +9,4 @@ const FrLang = {
   },
 };
 export default FrLang;
+ 

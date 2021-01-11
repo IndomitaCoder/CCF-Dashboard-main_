@@ -120,3 +120,4 @@ export class BasicArea extends Component {
 
 export default BasicArea
 ```
+ 

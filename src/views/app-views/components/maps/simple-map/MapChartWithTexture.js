@@ -129,3 +129,4 @@ export class MapChartWithTexture extends Component {
 }
 
 export default MapChartWithTexture
+ 

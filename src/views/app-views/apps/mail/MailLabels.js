@@ -37,4 +37,4 @@ export const getFileType = fileType => {
 		default:
 			return null;
 	}
-}
+} 

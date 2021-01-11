@@ -32,3 +32,4 @@ class TextTypography extends React.Component {
 }
 
 export default TextTypography;
+ 

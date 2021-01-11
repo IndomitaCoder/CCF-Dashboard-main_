@@ -53,3 +53,4 @@ class HotTags extends React.Component {
 
 ReactDOM.render(<HotTags />, mountNode);
 ```
+ 

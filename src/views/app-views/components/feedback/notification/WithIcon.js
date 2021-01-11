@@ -27,3 +27,4 @@ export class WithIcon extends Component {
 }
 
 export default WithIcon;
+ 

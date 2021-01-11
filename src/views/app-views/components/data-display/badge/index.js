@@ -48,3 +48,4 @@ export class BadgeComponent extends Component {
 }
 
 export default BadgeComponent;
+ 

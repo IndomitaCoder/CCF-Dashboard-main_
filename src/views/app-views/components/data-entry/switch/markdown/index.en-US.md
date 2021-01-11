@@ -33,3 +33,4 @@ Switching Selector.
 | ------- | ------------ | ------- |
 | blur()  | remove focus |         |
 | focus() | get focus    |         |
+ 

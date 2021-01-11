@@ -10,3 +10,4 @@ export class CloseText extends Component {
 }
 
 export default CloseText;
+ 

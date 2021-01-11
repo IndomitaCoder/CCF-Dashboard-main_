@@ -71,3 +71,4 @@ export class BasicColumn extends Component {
 
 export default BasicColumn
 ```
+ 

@@ -78,3 +78,4 @@ export class BasicMarker extends Component {
 
 export default BasicMarker
 ```
+ 

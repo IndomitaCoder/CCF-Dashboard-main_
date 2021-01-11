@@ -70,3 +70,4 @@ class CertainCategory extends React.Component {
 }
 
 export default CertainCategory;
+ 

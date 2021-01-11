@@ -122,3 +122,4 @@ export class ResetFilter extends Component {
 }
 
 export default ResetFilter;
+ 

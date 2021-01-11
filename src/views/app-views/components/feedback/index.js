@@ -29,4 +29,4 @@ const FeedBackComponents = ({ match }) => (
   </div>
 );
 
-export default FeedBackComponents;
+export default FeedBackComponents; 

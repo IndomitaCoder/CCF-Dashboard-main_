@@ -36,3 +36,4 @@ export class Mix extends Component {
 }
 
 export default Mix;
+ 

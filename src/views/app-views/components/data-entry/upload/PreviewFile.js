@@ -32,3 +32,4 @@ export class PreviewFile extends Component {
 }
 
 export default PreviewFile;
+ 

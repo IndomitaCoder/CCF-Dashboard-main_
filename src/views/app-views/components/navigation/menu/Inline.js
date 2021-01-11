@@ -72,3 +72,4 @@ class Inline extends React.Component {
 }
 
 export default Inline;
+ 

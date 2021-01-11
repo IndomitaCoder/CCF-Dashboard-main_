@@ -8,3 +8,4 @@ export class IntervalOptions extends Component {
 }
 
 export default IntervalOptions;
+ 

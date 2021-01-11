@@ -70,3 +70,4 @@ export class Size extends Component {
 }
 
 export default Size;
+ 

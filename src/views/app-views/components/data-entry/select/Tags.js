@@ -28,3 +28,4 @@ export class Tags extends Component {
 }
 
 export default Tags;
+ 

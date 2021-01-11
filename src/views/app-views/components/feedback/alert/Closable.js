@@ -28,3 +28,4 @@ export class Closable extends Component {
 }
 
 export default Closable;
+ 

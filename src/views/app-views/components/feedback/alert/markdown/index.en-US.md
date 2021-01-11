@@ -32,3 +32,4 @@ Alert component for feedback.
 | ----------- | -------------------------------- | --------- | ------------------- | ------- |
 | message     | custom error message to show     | ReactNode | `{{ error }}`       |         |
 | description | custom error description to show | ReactNode | `{{ error stack }}` |         |
+ 

@@ -20,4 +20,4 @@ FirebaseService.signInFacebookRequest = async () =>
 FirebaseService.signUpEmailRequest = async (email, password) =>
 	await auth.createUserWithEmailAndPassword(email, password).then(user => user).catch(err => err);	
 	
-export default FirebaseService
+export default FirebaseService 

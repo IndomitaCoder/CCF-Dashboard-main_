@@ -17,3 +17,4 @@ export const THEME_CONFIG = {
 	currentTheme: 'light',
 	direction: DIR_LTR
 };
+ 

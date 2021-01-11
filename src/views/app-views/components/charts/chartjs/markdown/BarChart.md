@@ -95,3 +95,4 @@ export class BarChart extends Component {
 export default BarChart
 
 ```
+ 

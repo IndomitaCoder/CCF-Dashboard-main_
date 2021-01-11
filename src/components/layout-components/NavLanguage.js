@@ -73,3 +73,4 @@ const mapStateToProps = ({ theme }) => {
 };
 
 export default connect(mapStateToProps, {onLocaleChange})(NavLanguage);
+ 
